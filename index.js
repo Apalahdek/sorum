@@ -18,8 +18,8 @@ app.listen(PORT, () => {
 app.get('/', (req, res) => {
     res.send({
         message: 'Welcome To JKT48 SHOWROOM API',
-        author: 'https://github.com/ikhbaldwiyan',
-        repository: 'https://github.com/ikhbaldwiyan/jkt48-showroom-api'
+        author: 'Valzyy',
+        tujuan: 'Buat Bot Wangsaf atau lainnya'
     })
 });
 
