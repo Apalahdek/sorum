@@ -17,7 +17,7 @@ app.listen(PORT, () => {
 
 app.get('/', (req, res) => {
     res.send({
-        'openapi: 3.0.0
+        messages: 'openapi: 3.0.0
 info:
   version: "1.0.0"
   title: Sorum Valz Store API
